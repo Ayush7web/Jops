@@ -21,7 +21,7 @@ const Welcome = () => {
       </Link>
       {/* ------------------------------------------------------------------------------- */}
 
-      <div className="w-[270px] h-[535px] bg-white flex justify-center items-center rounded-xl  ">
+      <div className="w-[270px] h-[585px] bg-white flex justify-center items-center rounded-xl  ">
         <div className="relative bottom-50 left-20 text-xl font-medium ">
           Welcome!
         </div>
@@ -43,7 +43,7 @@ const Welcome = () => {
         <img
           src={Zigzag}
           alt=""
-          className="absolute bottom-6.5 h-[108px] w-[270px] rounded-xl mb-0.5"
+          className="absolute bottom-1 h-[108px] w-[270px] rounded-xl mt-0.5"
         />
       </div>
       <Link to={"/signUp"}>
