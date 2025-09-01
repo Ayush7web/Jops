@@ -4,7 +4,7 @@ import Welcome from "./pages/Welcome/welcome";
 import SignUp from "./pages/SignUp/signUp";
 import SignUpOtp from "./pages/SignUpOtp/signUpOtp";
 import SignIn from "./pages/SignIn/signIn";
-import HomePage from "./pages/Homepage/homePage";
+import HomePage from "./pages/HomePage/homePage";
 import Account from "./pages/Account/account";
 import Profile from "./pages/Profile/profile";
 import AccountDetails from "./pages/AccountDetails/accountDetails";
