@@ -7,7 +7,7 @@ import WifiIcon from "@mui/icons-material/Wifi";
 import BatteryChargingFullIcon from "@mui/icons-material/BatteryChargingFull";
 import face from "../../Image/face.jpg";
 import KeyboardBackspaceIcon from "@mui/icons-material/KeyboardBackspace";
-import QrCode from "../../Image/qrCode.jpg";
+import QrCode from "../../Image/Qrcode.jpg";
 
 
 function Account() {
